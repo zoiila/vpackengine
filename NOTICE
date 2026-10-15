@@ -1,0 +1,7 @@
+VPackEngine | Vack Studio
+Copyright (c) Vack Studio. All rights reserved.
+
+Original source and documentation are proprietary. No redistribution license is granted by public showcase visibility.
+Paper, Adventure, Gson, SnakeYAML and JUnit retain their respective licenses.
+Server APIs and test dependencies are not bundled in the plugin JAR.
+Gradle wrapper scripts and wrapper JAR retain the Gradle Apache License 2.0 notices.
