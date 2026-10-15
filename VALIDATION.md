@@ -1,0 +1,12 @@
+# Validation report — 1.0.0-preview.1
+
+- **Build passed:** official project Gradle 9.1.0 wrapper, JDK Temurin 25.0.4.1, pinned Paper API 26.2.build.130-stable. `./gradlew clean build` produced the real JAR and source JAR. No Paper/Adventure/Gson classes are bundled.
+- **Automated tests passed:** 19 tests, 0 failures/errors/skips. ZIP root metadata/target compatibility, corruption/CRC, traversal, inflated/entry limits, hashes, registry transaction/restart, dependency order and pinned versions, cached direct APPLIED, terminal failure/decline/timeout, retry/supersede/disconnect identity isolation, unrelated UUID isolation, unsafe remote destinations, embedded methods/ranges/confinement, staged activation/rollback/immutability, failed import quarantine and malicious inventory input guards.
+- **Server smoke passed:** isolated Paper 26.2 build 130, Java 25. Plugin enabled asynchronously; doctor, imports, source validation, activate/rollback, profile edit, referenced deletion rejection, duplicate version rejection, corrupt ZIP rejection, invalid reload retaining working configuration, valid reload, console/player restrictions, nonexistent player error, immutable HTTP artifact checksum, clean shutdown and restart persistence passed. See validation/server-smoke.json and sanitized server-smoke.log. Offline mode was used only for isolated tests. Unrelated Mojang session/update connectivity warnings were present in the environment.
+- **Real client application:** pending. No graphical Minecraft client connected. Pure request tests do not prove client pack download/rendering or all interoperability paths.
+- **Visual checks:** generated concept preview inspected and labeled. Vanilla inventory layout is implemented; real client screenshot validation and production item-model/font assets are pending.
+- **Audio playback:** pending. Native sound keys/configuration are implemented; no external audio is shipped or claimed auditioned.
+- **Leaf/Folia/Bedrock:** unverified and not claimed. No Folia support descriptor or adapter is included.
+- **HTTPS/CDN client reachability:** administrator/network-specific; unverified. Embedded GET/HEAD/ranges and content confinement have automated checks; local immutable artifact delivery was also verified on the running server.
+
+This artifact is released as a preview, not labeled production-ready. Remaining client checks are listed in docs/acceptance.md. No compilation or service test is represented as multiplayer or custom-artwork proof.
