@@ -1,52 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1680" height="850" viewBox="0 0 1680 850" role="img" aria-label="From pack to player.. An explicit workflow for assets your server already uses."><title>From pack to player.</title>
-<path d="M134 131L211 80H459" stroke="#456F85" stroke-width="2.4" fill="none" opacity=".5"/>
+<path d="M134 131L211 80H459" stroke="#7B567C" stroke-width="2.4" fill="none" opacity=".5"/>
 <g transform="rotate(-.42 835 425)">
-<rect x="137" y="114" width="1418" height="684" rx="7" fill="#06141E" opacity=".42"/>
-<rect x="125" y="102" width="1418" height="684" rx="6" fill="#273B4A" opacity=".88"/>
-<rect x="113" y="90" width="1418" height="684" rx="5" fill="#162937" stroke="#465A6A" stroke-width="2"/>
-<path d="M113 90H1531" stroke="#84C9DD" stroke-width="3"/>
-<path d="M175 165V719" stroke="#619EB5" stroke-width="2" opacity=".72"/>
+<rect x="137" y="114" width="1418" height="684" rx="7" fill="#02040A" opacity=".42"/>
+<rect x="125" y="102" width="1418" height="684" rx="6" fill="#352C4D" opacity=".88"/>
+<rect x="113" y="90" width="1418" height="684" rx="5" fill="#1B202A" stroke="#555465" stroke-width="2"/>
+<path d="M113 90H1531" stroke="#B8A0EA" stroke-width="3"/>
+<path d="M175 165V719" stroke="#8C72B8" stroke-width="2" opacity=".72"/>
 </g>
 <g font-family="Inter,Arial,Helvetica,sans-serif">
-<text x="194" y="167" font-size="20" font-weight="750" letter-spacing="2.2" fill="#84C9DD">02 / DELIVERY LIFECYCLE</text>
+<text x="194" y="167" font-size="20" font-weight="750" letter-spacing="2.2" fill="#B8A0EA">02 / DELIVERY LIFECYCLE</text>
 <text x="193" y="262" font-size="63" font-weight="745" letter-spacing="-2.1" fill="#F8F7FC">From pack to player.</text>
 <text x="197" y="309" font-size="25" fill="#BDC7D3">An explicit workflow for assets your server already uses.</text>
-<path d="M195 343H1440" stroke="#43596C" stroke-width="2"/>
-<path d="M238 487H1399" stroke="#435766" stroke-width="5" stroke-linecap="round"/><path d="M238 487H1399" stroke="#84C9DD" stroke-width="2.4" stroke-dasharray="8 12"/><g>
-<rect x="197" y="388" width="284" height="234" rx="5" fill="#192F3D" stroke="#475E70" stroke-width="1.6"/>
-<path d="M197 388H481" stroke="#84C9DD" stroke-width="3"/>
-<text x="224" y="430" font-size="20" font-weight="750" fill="#84C9DD">01</text>
+<path d="M195 343H1440" stroke="#505462" stroke-width="2"/>
+<path d="M238 487H1399" stroke="#5D5466" stroke-width="5" stroke-linecap="round"/><path d="M238 487H1399" stroke="#B8A0EA" stroke-width="2.4" stroke-dasharray="8 12"/><g>
+<rect x="197" y="388" width="284" height="234" rx="5" fill="#161C27" stroke="#575364" stroke-width="1.6"/>
+<path d="M197 388H481" stroke="#B8A0EA" stroke-width="3"/>
+<text x="224" y="430" font-size="20" font-weight="750" fill="#B8A0EA">01</text>
 <text x="224" y="473" font-size="25" font-weight="740" fill="#F8F7FC">IMPORT</text>
-<circle cx="339" cy="487" r="8" fill="#84C9DD" stroke="#192F3D" stroke-width="3"/>
+<circle cx="339" cy="487" r="8" fill="#B8A0EA" stroke="#161C27" stroke-width="3"/>
 <text x="224" y="548" font-size="18" fill="#BEC9D6">Bring an existing pack</text>
 <text x="224" y="579" font-size="18" fill="#BEC9D6">into the managed library.</text>
 </g><g>
-<rect x="513" y="388" width="284" height="234" rx="5" fill="#192F3D" stroke="#475E70" stroke-width="1.6"/>
-<path d="M513 388H797" stroke="#84C9DD" stroke-width="3"/>
-<text x="540" y="430" font-size="20" font-weight="750" fill="#84C9DD">02</text>
+<rect x="513" y="388" width="284" height="234" rx="5" fill="#161C27" stroke="#575364" stroke-width="1.6"/>
+<path d="M513 388H797" stroke="#B8A0EA" stroke-width="3"/>
+<text x="540" y="430" font-size="20" font-weight="750" fill="#B8A0EA">02</text>
 <text x="540" y="473" font-size="25" font-weight="740" fill="#F8F7FC">VALIDATE</text>
-<circle cx="655" cy="487" r="8" fill="#84C9DD" stroke="#192F3D" stroke-width="3"/>
+<circle cx="655" cy="487" r="8" fill="#B8A0EA" stroke="#161C27" stroke-width="3"/>
 <text x="540" y="548" font-size="18" fill="#BEC9D6">Check and version</text>
 <text x="540" y="579" font-size="18" fill="#BEC9D6">the pack before use.</text>
 </g><g>
-<rect x="829" y="388" width="284" height="234" rx="5" fill="#192F3D" stroke="#475E70" stroke-width="1.6"/>
-<path d="M829 388H1113" stroke="#84C9DD" stroke-width="3"/>
-<text x="856" y="430" font-size="20" font-weight="750" fill="#84C9DD">03</text>
+<rect x="829" y="388" width="284" height="234" rx="5" fill="#161C27" stroke="#575364" stroke-width="1.6"/>
+<path d="M829 388H1113" stroke="#B8A0EA" stroke-width="3"/>
+<text x="856" y="430" font-size="20" font-weight="750" fill="#B8A0EA">03</text>
 <text x="856" y="473" font-size="25" font-weight="740" fill="#F8F7FC">ACTIVATE</text>
-<circle cx="971" cy="487" r="8" fill="#84C9DD" stroke="#192F3D" stroke-width="3"/>
+<circle cx="971" cy="487" r="8" fill="#B8A0EA" stroke="#161C27" stroke-width="3"/>
 <text x="856" y="548" font-size="18" fill="#BEC9D6">Select the approved</text>
 <text x="856" y="579" font-size="18" fill="#BEC9D6">pack profile.</text>
 </g><g>
-<rect x="1145" y="388" width="284" height="234" rx="5" fill="#192F3D" stroke="#475E70" stroke-width="1.6"/>
-<path d="M1145 388H1429" stroke="#F3C47A" stroke-width="3"/>
-<text x="1172" y="430" font-size="20" font-weight="750" fill="#84C9DD">04</text>
+<rect x="1145" y="388" width="284" height="234" rx="5" fill="#161C27" stroke="#575364" stroke-width="1.6"/>
+<path d="M1145 388H1429" stroke="#F062B4" stroke-width="3"/>
+<text x="1172" y="430" font-size="20" font-weight="750" fill="#B8A0EA">04</text>
 <text x="1172" y="473" font-size="25" font-weight="740" fill="#F8F7FC">DELIVER</text>
-<circle cx="1287" cy="487" r="8" fill="#F3C47A" stroke="#192F3D" stroke-width="3"/>
+<circle cx="1287" cy="487" r="8" fill="#F062B4" stroke="#161C27" stroke-width="3"/>
 <text x="1172" y="548" font-size="18" fill="#BEC9D6">Request the pack and</text>
 <text x="1172" y="579" font-size="18" fill="#BEC9D6">observe player status.</text>
-</g><path d="M1313 641C1313 710 320 710 320 641" stroke="#507E93" stroke-width="2.4" fill="none" stroke-dasharray="6 10"/>
-<path d="M309 650L320 633L331 650" stroke="#84C9DD" stroke-width="3" stroke-linecap="round" fill="none"/>
+</g><path d="M1313 641C1313 710 320 710 320 641" stroke="#896687" stroke-width="2.4" fill="none" stroke-dasharray="6 10"/>
+<path d="M309 650L320 633L331 650" stroke="#B8A0EA" stroke-width="3" stroke-linecap="round" fill="none"/>
 <text x="820" y="686" text-anchor="middle" font-size="17" font-weight="730" fill="#B7BCCB">Need an earlier version? Roll back through the managed pack lifecycle.</text>
-<text x="1440" y="754" text-anchor="end" font-size="14" font-weight="680" letter-spacing="1.05" fill="#769FAE">EDITORIAL DIAGRAM · NOT A GAMEPLAY CAPTURE</text>
+<text x="1440" y="754" text-anchor="end" font-size="14" font-weight="680" letter-spacing="1.05" fill="#A27C9D">EDITORIAL DIAGRAM · NOT A GAMEPLAY CAPTURE</text>
 </g>
 </svg>
