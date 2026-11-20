@@ -8,7 +8,7 @@
 <path d="M175 165V669" stroke="#A576A1" stroke-width="2" opacity=".72"/>
 </g>
 <g font-family="Inter,Arial,Helvetica,sans-serif">
-<text x="194" y="167" font-size="20" font-weight="750" letter-spacing="2.2" fill="#DBACD1">03 / PROFILES & VERSIONS</text>
+<text x="194" y="167" font-size="20" font-weight="750" letter-spacing="2.2" fill="#DBACD1">03 / PROFILES &amp; VERSIONS</text>
 <text x="193" y="262" font-size="63" font-weight="745" letter-spacing="-2.1" fill="#F8F7FC">Designed to stay in control.</text>
 <text x="197" y="309" font-size="25" fill="#BDC7D3">Keep related pack assets organized and revisions traceable.</text>
 <path d="M195 343H1440" stroke="#505462" stroke-width="2"/>
