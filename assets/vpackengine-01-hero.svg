@@ -19,7 +19,7 @@
 <path d="M198 594H932" stroke="#50596B" stroke-width="2" opacity=".8"/>
 <text x="202" y="631" fill="#D2DBE6" font-family="Inter,Arial,Helvetica,sans-serif" font-size="16" font-weight="760" letter-spacing="1.4">IMPORT</text>
 <circle cx="358" cy="625" r="3.5" fill="#B47FA9"/>
-<text x="376" y="631" fill="#D2DBE6" font-family="Inter,Arial,Helvetica,sans-serif" font-size="16" font-weight="760" letter-spacing="1.4">VALIDATE & VERSION</text>
+<text x="376" y="631" fill="#D2DBE6" font-family="Inter,Arial,Helvetica,sans-serif" font-size="16" font-weight="760" letter-spacing="1.4">VALIDATE &amp; VERSION</text>
 <circle cx="608" cy="625" r="3.5" fill="#B47FA9"/>
 <text x="626" y="631" fill="#D2DBE6" font-family="Inter,Arial,Helvetica,sans-serif" font-size="16" font-weight="760" letter-spacing="1.4">ACTIVATE / ROLLBACK</text>
 
