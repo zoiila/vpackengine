@@ -1,35 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1680" height="790" viewBox="0 0 1680 790" role="img" aria-label="The boundary is intentional.. Resource packs personalize the client. Gameplay remains server logic."><title>The boundary is intentional.</title>
-<path d="M134 131L211 80H459" stroke="#7B567C" stroke-width="2.4" fill="none" opacity=".5"/>
+<path d="M134 131L211 80H459" stroke="#456F85" stroke-width="2.4" fill="none" opacity=".5"/>
 <g transform="rotate(-.42 835 395)">
 <rect x="137" y="114" width="1418" height="624" rx="7" fill="#020409" opacity=".42"/>
-<rect x="125" y="102" width="1418" height="624" rx="6" fill="#392C3B" opacity=".88"/>
-<rect x="113" y="90" width="1418" height="624" rx="5" fill="#1B202A" stroke="#555465" stroke-width="2"/>
-<path d="M113 90H1531" stroke="#DBACD1" stroke-width="3"/>
-<path d="M175 165V659" stroke="#A576A1" stroke-width="2" opacity=".72"/>
+<rect x="125" y="102" width="1418" height="624" rx="6" fill="#273B4A" opacity=".88"/>
+<rect x="113" y="90" width="1418" height="624" rx="5" fill="#1B202A" stroke="#465A6A" stroke-width="2"/>
+<path d="M113 90H1531" stroke="#84C9DD" stroke-width="3"/>
+<path d="M175 165V659" stroke="#619EB5" stroke-width="2" opacity=".72"/>
 </g>
 <g font-family="Inter,Arial,Helvetica,sans-serif">
-<text x="194" y="167" font-size="20" font-weight="750" letter-spacing="2.2" fill="#DBACD1">04 / WHAT THE ENGINE MANAGES</text>
+<text x="194" y="167" font-size="20" font-weight="750" letter-spacing="2.2" fill="#84C9DD">04 / WHAT THE ENGINE MANAGES</text>
 <text x="193" y="262" font-size="63" font-weight="745" letter-spacing="-2.1" fill="#F8F7FC">The boundary is intentional.</text>
 <text x="197" y="309" font-size="25" fill="#BDC7D3">Resource packs personalize the client. Gameplay remains server logic.</text>
-<path d="M195 343H1440" stroke="#505462" stroke-width="2"/>
+<path d="M195 343H1440" stroke="#43596C" stroke-width="2"/>
 <g>
-<rect x="197" y="378" width="606" height="269" rx="4" fill="#171C26" stroke="#595467" stroke-width="1.8"/>
-<path d="M197 378H803" stroke="#DBACD1" stroke-width="3"/>
-<text x="230" y="423" fill="#DBACD1" font-size="19" font-weight="755" letter-spacing="1.6">RESOURCE PACK</text>
+<rect x="197" y="378" width="606" height="269" rx="4" fill="#171C26" stroke="#4A6173" stroke-width="1.8"/>
+<path d="M197 378H803" stroke="#84C9DD" stroke-width="3"/>
+<text x="230" y="423" fill="#84C9DD" font-size="19" font-weight="755" letter-spacing="1.6">RESOURCE PACK</text>
 <text x="230" y="478" fill="#F8F7FC" font-size="32" font-weight="750">Client-supported assets</text>
 <text x="232" y="528" fill="#B9C5D3" font-size="20">Textures, fonts, models, and other</text>
 <text x="232" y="558" fill="#B9C5D3" font-size="20">resources the client can display.</text>
-<text x="232" y="607" fill="#DEB6D7" font-size="18" font-weight="740">VPackEngine manages delivery.</text>
-<path d="M840 492H884" stroke="#8E7B90" stroke-width="3"/>
-<path d="M877 482L890 492L877 502" fill="none" stroke="#DBACD1" stroke-width="2.5"/>
-<rect x="925" y="378" width="513" height="269" rx="4" fill="#171C26" stroke="#595467" stroke-width="1.8"/>
-<path d="M925 378H1438" stroke="#B8B6CC" stroke-width="3"/>
-<text x="959" y="423" fill="#C0C2D2" font-size="19" font-weight="755" letter-spacing="1.6">SERVER PLUGIN</text>
+<text x="232" y="607" fill="#9FD9E7" font-size="18" font-weight="740">VPackEngine manages delivery.</text>
+<path d="M840 492H884" stroke="#68899A" stroke-width="3"/>
+<path d="M877 482L890 492L877 502" fill="none" stroke="#84C9DD" stroke-width="2.5"/>
+<rect x="925" y="378" width="513" height="269" rx="4" fill="#171C26" stroke="#4A6173" stroke-width="1.8"/>
+<path d="M925 378H1438" stroke="#A5C7D3" stroke-width="3"/>
+<text x="959" y="423" fill="#CADCE4" font-size="19" font-weight="755" letter-spacing="1.6">SERVER PLUGIN</text>
 <text x="959" y="478" fill="#F8F7FC" font-size="30" font-weight="750">Gameplay behavior</text>
 <text x="959" y="528" fill="#B9C5D3" font-size="20">Commands, rules, and new</text>
 <text x="959" y="558" fill="#B9C5D3" font-size="20">mechanics require server code.</text>
-<text x="959" y="607" fill="#DEB6D7" font-size="18" font-weight="740">Beyond vanilla limits? Client mod.</text>
+<text x="959" y="607" fill="#9FD9E7" font-size="18" font-weight="740">Beyond vanilla limits? Client mod.</text>
 </g>
-<text x="1440" y="694" text-anchor="end" font-size="14" font-weight="680" letter-spacing="1.05" fill="#A27C9D">EXPLANATORY DESIGN / NOT AN IN-GAME SCREENSHOT</text>
+<text x="1440" y="694" text-anchor="end" font-size="14" font-weight="680" letter-spacing="1.05" fill="#769FAE">EXPLANATORY DESIGN / NOT AN IN-GAME SCREENSHOT</text>
 </g>
 </svg>
