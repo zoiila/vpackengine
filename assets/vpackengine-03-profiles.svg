@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1680" height="800" viewBox="0 0 1680 800" role="img" aria-label="Designed to stay in control.. Keep related pack assets organized and revisions traceable."><title>Designed to stay in control.</title>
+<path d="M134 131L211 80H459" stroke="#7B567C" stroke-width="2.4" fill="none" opacity=".5"/>
+<g transform="rotate(-.42 835 400)">
+<rect x="137" y="114" width="1418" height="634" rx="7" fill="#020409" opacity=".42"/>
+<rect x="125" y="102" width="1418" height="634" rx="6" fill="#392C3B" opacity=".88"/>
+<rect x="113" y="90" width="1418" height="634" rx="5" fill="#1B202A" stroke="#555465" stroke-width="2"/>
+<path d="M113 90H1531" stroke="#DBACD1" stroke-width="3"/>
+<path d="M175 165V669" stroke="#A576A1" stroke-width="2" opacity=".72"/>
+</g>
+<g font-family="Inter,Arial,Helvetica,sans-serif">
+<text x="194" y="167" font-size="20" font-weight="750" letter-spacing="2.2" fill="#DBACD1">03 / PROFILES & VERSIONS</text>
+<text x="193" y="262" font-size="63" font-weight="745" letter-spacing="-2.1" fill="#F8F7FC">Designed to stay in control.</text>
+<text x="197" y="309" font-size="25" fill="#BDC7D3">Keep related pack assets organized and revisions traceable.</text>
+<path d="M195 343H1440" stroke="#505462" stroke-width="2"/>
+<rect x="198" y="384" width="568" height="293" rx="4" fill="#171C26" stroke="#595467" stroke-width="1.8"/>
+<path d="M198 384H766" stroke="#DBACD1" stroke-width="3"/>
+<text x="232" y="426" fill="#DBACD1" font-size="17" font-weight="755" letter-spacing="1.9">MANAGED PROFILE</text>
+<text x="232" y="473" fill="#F8F7FC" font-size="38" font-weight="730">Server Experience</text>
+<text x="234" y="515" fill="#B9C5D3" font-size="19">One selected profile with declared dependencies.</text>
+<path d="M232 544H732" stroke="#555361" stroke-width="2"/>
+<circle cx="251" cy="578" r="7" fill="#DBACD1"/><text x="273" y="585" fill="#D9DBE6" font-size="19">Base assets</text>
+<path d="M250 598V623H284" stroke="#797288" stroke-width="2" fill="none"/>
+<circle cx="297" cy="624" r="6" fill="#DBACD1"/><text x="315" y="630" fill="#D9DBE6" font-size="19">Dependent content</text>
+<g>
+<rect x="808" y="384" width="631" height="293" rx="4" fill="#171C26" stroke="#595467" stroke-width="1.8"/>
+<path d="M808 384H1439" stroke="#DBACD1" stroke-width="3"/>
+<text x="842" y="426" fill="#DBACD1" font-size="17" font-weight="755" letter-spacing="1.9">PACK REVISIONS</text>
+<path d="M870 493H1368" stroke="#575565" stroke-width="3"/>
+<path d="M870 493H1200" stroke="#DBACD1" stroke-width="3"/>
+<circle cx="870" cy="493" r="11" fill="#5D536A" stroke="#B7A1C0" stroke-width="3"/>
+<circle cx="1052" cy="493" r="11" fill="#5D536A" stroke="#B7A1C0" stroke-width="3"/>
+<circle cx="1235" cy="493" r="13" fill="#DBACD1" stroke="#1A1F29" stroke-width="3"/>
+<text x="870" y="537" text-anchor="middle" fill="#BBC2D0" font-size="18" font-weight="700">v1</text>
+<text x="1052" y="537" text-anchor="middle" fill="#BBC2D0" font-size="18" font-weight="700">v2</text>
+<text x="1235" y="537" text-anchor="middle" fill="#F3D1E7" font-size="18" font-weight="760">ACTIVE</text>
+<text x="841" y="601" fill="#F8F7FC" font-size="22" font-weight="735">Version history remains available.</text>
+<text x="841" y="632" fill="#B9C5D3" font-size="18">Activate, check, or restore an earlier revision.</text>
+</g>
+<text x="1440" y="704" text-anchor="end" font-size="14" font-weight="680" letter-spacing="1.05" fill="#A27C9D">EDITORIAL DIAGRAM · NOT A GAMEPLAY CAPTURE</text>
+</g>
+</svg>
